@@ -1,4 +1,4 @@
-# Eventapp
+# Events app
 
 
 Web application using Spring Boot that manages a list of events and their guests. 
